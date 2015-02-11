@@ -1,4 +1,4 @@
-GLUON_SITE_FEEDS='ffnw'
+GLUON_SITE_FEEDS='fflin'
 
-PACKAGES_FFNW_REPO=http://git.freifunk-ol.de/root/packages.git
-PACKAGES_FFNW_COMMIT=3dd5a34c0001afab7253091a2fe526e10f2c657c
+PACKAGES_FFLIN_REPO=https://github.com/Freifunk-Lingen/gluon-packages.git
+PACKAGES_FFLIN_COMMIT=12480a02cccf79f4ae1541626b8b6280f82146b3

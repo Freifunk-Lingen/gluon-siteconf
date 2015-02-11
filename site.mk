@@ -22,9 +22,9 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	iptables \
 	haveged \
-	ffnw-fastdreg \
-	ffnw-configurator \
-	ffnw-nodewatcher
+	fflin-fastdreg \
+	fflin-configurator \
+	fflin-nodewatcher
 
 DEFAULT_GLUON_RELEASE := 0.5.4+0$(shell date '+%Y%m%d')
 
